@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨About me: Reserve Artillery Officer of the Brazilian Army, at present studying Internet Systems at the Federal University of Santa Maria (Rio Grande do Sul, Brazil). Currently dedicated to Web Development at the Laboratory of Ubiquitous, Mobile and Applied Computing (LUMAC) at the same university 🇧🇷.</p>
+<p align="left">About me: Reserve Artillery Officer of the Brazilian Army, at present studying Internet Systems at the Federal University of Santa Maria (Rio Grande do Sul, Brazil). Currently dedicated to Web Development at the Laboratory of Ubiquitous, Mobile and Applied Computing (LUMAC) at the same university 🇧🇷.</p>
 
 ###
 
